@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Смирнов Павел</h1>
+      <ul>
+        <li>люблю играть в игры</li>
+              <p> World Of Tanks</p>
+      <iframe width="600" height="300" src="https://www.youtube.com/embed/Jiz5EfjRT2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+            <p>Stendoff 2</p>
+      <iframe width="600" height="300" src="https://www.youtube.com/embed/cwxXJVD4it8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+      <p> Также я люблю играть и в спортивные игры</p>
+      <img src="https://bosichkom.com/sites/bosichkom.com/files/field/image/detskaya-igra-pionerbol.jpg">
+        <li>катаюсь на велосипеде </li>
+        <li> умею делаю сайты</li>
+      </ul>
+      <img src="/uploads/2021/04/sky-1871753_1280%201_0_1618254989.png" width="830px" height="550px"/>
+
+    </main>
+    <footer>
+      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+
+    </footer>
+  </body>
+</html>
